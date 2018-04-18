@@ -1,5 +1,6 @@
 # sea
-
+# 2018.4.17 版本
+# 多路由&多卡片的模式
 > A Vue.js project
 
 ## Build Setup
